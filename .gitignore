@@ -1,0 +1,15 @@
+# Build output
+bin/
+obj/
+*.dll
+*.pdb
+# Archives
+*.zip
+# Game path on this computer (one shared file for all mods)
+GamePath.props
+# Visual Studio personal files
+.vs/
+*.user
+
+!lib/*.dll
+lib/*.nupkg

@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. RenameHideAsteroids.STRINGS.RENAMEHIDEASTEROIDS.HIDDEN_LINK
+msgctxt "RenameHideAsteroids.STRINGS.RENAMEHIDEASTEROIDS.HIDDEN_LINK"
+msgid "+ Hidden asteroids ({0})"
+msgstr "+ Скрытые астероиды ({0})"
+
+#. RenameHideAsteroids.STRINGS.RENAMEHIDEASTEROIDS.HIDE_BUTTON
+msgctxt "RenameHideAsteroids.STRINGS.RENAMEHIDEASTEROIDS.HIDE_BUTTON"
+msgid "Hide"
+msgstr "Скрыть"
+
+#. RenameHideAsteroids.STRINGS.RENAMEHIDEASTEROIDS.SHOW_BUTTON
+msgctxt "RenameHideAsteroids.STRINGS.RENAMEHIDEASTEROIDS.SHOW_BUTTON"
+msgid "Show"
+msgstr "Вернуть"
+
+#. RenameHideAsteroids.STRINGS.RENAMEHIDEASTEROIDS.OPTIONS.CATEGORY
+msgctxt "RenameHideAsteroids.STRINGS.RENAMEHIDEASTEROIDS.OPTIONS.CATEGORY"
+msgid "Hidden asteroids"
+msgstr "Скрытые астероиды"
+
+#. RenameHideAsteroids.STRINGS.RENAMEHIDEASTEROIDS.OPTIONS.HIDE_ASTEROIDS
+msgctxt "RenameHideAsteroids.STRINGS.RENAMEHIDEASTEROIDS.OPTIONS.HIDE_ASTEROIDS"
+msgid "Hide asteroids"
+msgstr "Скрывать астероиды"
+
+#. RenameHideAsteroids.STRINGS.RENAMEHIDEASTEROIDS.OPTIONS.HIDE_ASTEROIDS_TOOLTIP
+msgctxt "RenameHideAsteroids.STRINGS.RENAMEHIDEASTEROIDS.OPTIONS.HIDE_ASTEROIDS_TOOLTIP"
+msgid "When enabled, asteroids can be hidden in the right panel."
+msgstr "Если включено, астероиды в правой панели можно скрыть."
+
+#. RenameHideAsteroids.STRINGS.RENAMEHIDEASTEROIDS.OPTIONS.CATEGORY_SHOW
+msgctxt "RenameHideAsteroids.STRINGS.RENAMEHIDEASTEROIDS.OPTIONS.CATEGORY_SHOW"
+msgid "Show a hidden asteroid"
+msgstr "Показывать скрытый астероид"
+
+#. RenameHideAsteroids.STRINGS.RENAMEHIDEASTEROIDS.OPTIONS.SHOW_ON_RED
+msgctxt "RenameHideAsteroids.STRINGS.RENAMEHIDEASTEROIDS.OPTIONS.SHOW_ON_RED"
+msgid "On red alert"
+msgstr "При красной тревоге"
+
+#. RenameHideAsteroids.STRINGS.RENAMEHIDEASTEROIDS.OPTIONS.SHOW_ON_RED_TOOLTIP
+msgctxt "RenameHideAsteroids.STRINGS.RENAMEHIDEASTEROIDS.OPTIONS.SHOW_ON_RED_TOOLTIP"
+msgid "Works only if \"Hide asteroids\" is enabled.\nWhen enabled, a hidden asteroid with a red alert temporarily reappears in the list until the alert is over.\nThe alert sound plays only once."
+msgstr "Действует, только если включена опция «Скрывать астероиды».\nЕсли включено, скрытый астероид с красной тревогой временно вернётся в список, пока тревога не пройдёт.\nЗвук тревоги прозвучит только один раз."
+
+#. RenameHideAsteroids.STRINGS.RENAMEHIDEASTEROIDS.OPTIONS.SHOW_ON_YELLOW
+msgctxt "RenameHideAsteroids.STRINGS.RENAMEHIDEASTEROIDS.OPTIONS.SHOW_ON_YELLOW"
+msgid "On yellow alert"
+msgstr "При жёлтой тревоге"
+
+#. RenameHideAsteroids.STRINGS.RENAMEHIDEASTEROIDS.OPTIONS.SHOW_ON_YELLOW_TOOLTIP
+msgctxt "RenameHideAsteroids.STRINGS.RENAMEHIDEASTEROIDS.OPTIONS.SHOW_ON_YELLOW_TOOLTIP"
+msgid "Works only if \"Hide asteroids\" is enabled.\nWhen enabled, a hidden asteroid with a yellow alert temporarily reappears in the list until the alert is over.\nThe alert sound plays only once."
+msgstr "Действует, только если включена опция «Скрывать астероиды».\nЕсли включено, скрытый астероид с жёлтой тревогой временно вернётся в список, пока тревога не пройдёт.\nЗвук тревоги прозвучит только один раз."

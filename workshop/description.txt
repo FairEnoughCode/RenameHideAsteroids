@@ -1,0 +1,59 @@
+[h1]Rename & Hide Asteroids[/h1]
+
+This mod lets you rename asteroids and hide the ones you don't need from the list on the right, so it no longer takes up half the screen.
+
+[h2]Renaming[/h2]
+Select an asteroid on the Starmap and click the pencil in the title of its panel, just like for rockets and Duplicants. The new name shows in the list in the right panel, on the Starmap and everywhere else in the game. If you disable the mod, the new name stays.
+
+[h2]Hiding from the list[/h2]
+Hover over an asteroid row and click [b]Hide[/b]. Hidden asteroids go under the [b]+ Hidden asteroids (N)[/b] link at the bottom of the list: click it to see them, and click [b]Show[/b] to bring an asteroid back to the list.
+[list]
+[*]Rockets landed on a hidden asteroid are hidden with it. Rockets in flight and in orbit stay in the list.
+[*]While the camera is on a hidden asteroid, it shows under the link.
+[*]The starting asteroid can't be hidden.
+[*]Hotkeys (BACKQUOTE + number) work for hidden asteroids too.
+[/list]
+
+[h2]Alerts[/h2]
+A hidden asteroid with a red alert temporarily comes back to the list until the alert is over. The alert sound plays only once. Yellow alerts are off by default, but you can still see them by opening the list of hidden asteroids. You can turn them on in the settings, the same as red ones.
+A red alert can happen even on an empty asteroid, for example during a meteor shower or when a rocket can't land. You can turn off the alerts you don't need for each asteroid in the game's own diagnostics (Diagnostics → See All).
+
+[h2]Settings[/h2]
+In the Mods menu, click Options:
+[list]
+[*][b]Hide asteroids[/b]: when off, the mod only renames, and the list stays as in the base game. Hidden asteroids are remembered.
+[*][b]Show a hidden asteroid on red alert[/b] (on) / [b]on yellow alert[/b] (off).
+[/list]
+Changes apply when you load a save, no game restart needed.
+
+[h2]Compatibility[/h2]
+[list]
+[*]Requires the Spaced Out! DLC
+[*]Can be added to an existing game and disabled at any time: new names stay, and the list goes back to normal.
+[/list]
+
+[h2]Languages[/h2]
+
+English and Russian.
+
+[h2]Found a bug?[/h2]
+
+Please make sure you have the latest version. Steam sometimes doesn't update mods; [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2018291283]Mod Updater[/url] fixes this.
+
+Then leave a comment with:
+[list]
+[*][b]Player.log[/b], uploaded to Pastebin or Google Drive. Grab it right after the problem: each game launch overwrites it.
+Windows: [i]%USERPROFILE%\AppData\LocalLow\Klei\Oxygen Not Included\Player.log[/i]
+[*][b]Your mod list:[/b] a screenshot of the Mods screen is enough.
+[*]What you did and what happened.
+[/list]
+
+[h2]Credits[/h2]
+
+Settings are made with [url=https://github.com/peterhaneve/ONIMods]PLib[/url] by Peter Han.
+
+This mod was made with the help of AI.
+
+[h2]Source code[/h2]
+
+[url=https://github.com/FairEnoughCode/RenameHideAsteroids]GitHub[/url] (MIT license)
